@@ -1,3 +1,25 @@
+
+Hubl.in是一个免费的开源视频会议解决方案。它被爱构建，被热情设计。它提供最好的方法去随时随地和任何人视频聊天，把实时交流提升到一个新的高度。Hubl.in提供的免费交流不需要任何额外插件。
+
+用法：
+
+
+
+请选择一个新的房间名或者保持默认。酷一点的或者随机？由您来选择。
+
+
+
+请允许您的浏览器使用摄像头和麦克风。如果没错的话百分之百的视频会议用语音和视频会变得更有效。
+
+
+
+成功登入！邀请您的联系人加入：您的联系人可以邀请他自己的联系人，他自己的联系人可以邀请他自己的联系人的联系人...
+
+
+
+好好享受吧！您可以在大多是平台使用Hubl.in多达9参与者，无论是电脑，手机，还是平板电脑。它开源，免费，随时随地可用。
+
+
 # Hubl.in
 
 [![Join the chat at https://gitter.im/linagora/hublin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/linagora/hublin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
